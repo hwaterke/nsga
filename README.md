@@ -1,2 +1,3 @@
-# nsga
-NSGA-II
+# NSGA-II
+
+Simple implementation of NSGA-II in ruby
